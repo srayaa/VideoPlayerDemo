@@ -65,8 +65,9 @@ public class DataUtil {
                 "https://oimryzjfe.qnssl.com/content/DCB821BA35E4DA20DF5CE450F621D10B.jpg",
                 540,
                 960));
+        //https://oimryzjfe.qnssl.com/content/afc192cfae2df1366d7268bc7a181555.mp4
         mainVideoBeanList.add(new MainVideoBean(R.mipmap.avatar1,
-                "https://oimryzjfe.qnssl.com/content/afc192cfae2df1366d7268bc7a181555.mp4",
+                "https://ip107309239.ahcdn.com/key=CX6h9I7kxzQEzd49chscSw,s=,end=1551746991,limit=2/state=3o1A/reftag=073313959/media=hls/48/102/4/73234454.m3u8",
                 "程序员小陈8",
                 "在即将正式发布的 Android P 版本中，谷歌彻底取消了对Apache HTTPClient的支持, 谷歌就推荐在Android2.3版本以上使用HttpURLConnection",
                 "https://oimryzjfe.qnssl.com/content/e72446a57dbf64e234bad0582ecdb44e.png",
